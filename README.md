@@ -1,10 +1,10 @@
-Euratom Open-Source Project Template
-====================================
+Euratom Open-Source Repository Template
+=======================================
 
 This repository contains a skeleton project to help developers establish a code repository under the Euratom organisation.
 
-Creating a New Project
-----------------------
+Creating a New Repository
+-------------------------
 
 For developers creating a new project, please use the template project in this repository as the basis for your new code repository.
 
